@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateUrl='indie.xml' b:templateVersion='1.1.1' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<meta content='text/html;charset=utf-8' http-equiv='content-type'/>
+  <head>
+    <meta content='width=device-width, initial-scale=1' name='viewport'/>
+ <meta content='article' property='og:type'/>
+    <meta content='summary_large_image' name='twitter:card'/>
+    <meta content='kenhocthem.edu.vn' name='twitter:site'/>  
+    <meta content='Kênh Học Thêm' name='twitter:title'/> 
+    <meta content='Kênh Học Thêm' name='twitter:description'/>
+    <meta content='https://1.bp.blogspot.com/-t_4OmCBV6zw/YP_k-jyn3sI/AAAAAAAAABQ/8almNoodpNEvT9YYd44W9ElBt1c5xG0NgCLcBGAsYHQ/s320/TN.png' name='twitter:image:src'/>
+
+ <meta content='ĐIỀN ID APP FB' property='fb:app_id'/>
+    <meta content='kenhhocthem.edu.vn' property='og:site_name'/>
+    <meta content='true' property='og:rich_attachment'/>
+    <meta content='article' property='og:type'/>
+    <meta content='ĐIỀN LINK TRANG CHỦ' property='og:url'/>
+    <meta content='Trung tâm học thêm online' property='og:title'/>
+    <meta content='Kênh Học Thêm - Chia sẻ kiến thức Toán Tin' property='og:description'/>
+    <meta content='https://1.bp.blogspot.com/-t_4OmCBV6zw/YP_k-jyn3sI/AAAAAAAAABQ/8almNoodpNEvT9YYd44W9ElBt1c5xG0NgCLcBGAsYHQ/s320/TN.png' property='og:image'/>
+    <meta content='720' property='og:image:width'/>
+    <meta content='480' property='og:image:height'/>
+    <meta content='ĐIỀN LINK FANPAGE' property='article:author'/>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<link href='hocthemnhabe.com' rel='canonical'/>
+ <meta content='Học thêm nhà bè, Học thêm huyện nhà bè, Học thêm xã hiệp phước, Học thêm hiệp phước, Học thêm phú xuân, Học thêm thcs nguyễn thị hương, học thêm Long thới, học thêm hiệp phước, học thêm nhơn đức, học thêm lê văn lương, học thêm long thới, học thêm thcs nguyễn bỉnh khiêm, học thêm thcs lê văn hưu, kênh học thêm' name='keywords'/>
+ <title>Kênh Học Thêm</title>
+    <meta content='Kênh Học Thêm - Chia sẻ kiến thức Toán Tin' name='description'/>
+</b:if> 
+    <meta content='index,follow,all' name='robots'/>
+   
+    <b:include data='blog' name='all-head-content'/>
+  <b:skin><![CDATA[  
+.bxhtitle {
+background: #01A0E2!important;
+}
+#footer {
+    background-color: #0a6de2!important;
+}
+.breadcrumbs {
+    padding: 8px 15px;
+    margin-bottom: 20px;
+    list-style: none;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+}
+.boxright .title {
+    background: #01A0E2!important;
+  
+}
+.newlist div.des h2 a {
+    color: #1056a9!important;
+}
+.view h1 {
+    color: #1056a9!important;
+    font-size: 22px;
+}
+]]></b:skin>
+    <b:include cond='not data:view.isPreview' data='{image: data:skin.vars.body_background.image, selector: &quot;.bg-photo&quot;, imageSizes: [480, 640, 800, 1200, 1600]  }' name='responsiveImageStyle'/>
+ <link href='https://web3giay.github.io/suadodien.github.io/CssChuan/Css_All.css' rel='stylesheet' type='text/css'/>
+    <link href='https://web3giay.github.io/suadodien.github.io/themes/default/mobile.css' media='screen and (min-width: 18.750em)' rel='stylesheet' type='text/css'/>
+    <link href='https://web3giay.github.io/suadodien.github.io/themes/default/style.css' media='screen and (min-width: 48em)' rel='stylesheet' type='text/css'/>
+
+<link href='https://web3giay.github.io/suadodien.github.io/themes/default/css/font-face.css' rel='stylesheet' type='text/css'/>
+ <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+    <link href='https://web3giay.github.io/suadodien.github.io/themes/default/cssmenu.css' rel='stylesheet' type='text/css'/>
+ <script src='https://web3giay.github.io/suadodien.github.io/themes/default/js/jquery-1.9.1.min.js'/>
+    <script src='https://web3giay.github.io/suadodien.github.io/themes/default/owl-carousel/owl.carousel.js'/>
+    <script src='https://web3giay.github.io/suadodien.github.io/themes/default/js/jsmenu.js' type='text/jscript'/>
+  <link href='https://web3giay.github.io/suadodien.github.io/themes/default/owl-carousel/owl.carousel.css' rel='stylesheet' type='text/css'/>
+
+<link href='https://web3giay.github.io/suadodien.github.io/themes/default/owl-carousel/owl.theme.css' rel='stylesheet' type='text/css'/>
+    <!-- Zoom Products -->
+    <link href='https://web3giay.github.io/suadodien.github.io/css/smoothproducts.css' rel='stylesheet' type='text/css'/>
+    <!--Ènd Zoom Products -->
+    <link href='https://web3giay.github.io/suadodien.github.io/CssAllPage/style.css' rel='stylesheet'/>
+    <link href='https://web3giay.github.io/suadodien.github.io/css/Mobile.css' rel='stylesheet'/>
+
+<script type='text/javascript'>
+      //<![CDATA[
+      imgr = new Array();
+      imgr[0] = "https://4.bp.blogspot.com/-QBErF3x8I6g/XJmRkwqS-LI/AAAAAAAAEK0/dmXgUot4sBI7dwZo6e4c6qapKyM76CZJwCLcBGAs/s1600/no-image.png";
+      showRandomImg = true;
+      aBold = true;
+      summaryPost = 140;
+      summaryPost1= 80; 
+      summaryTitle = 35; 
+      numposts = 1; 
+      numposts1 =6; 
+      numposts2 =2
+; 
+      numposts4 = 4; 
+      numposts5 = 5; 
+      numposts6 = 9; 
+      numposts7 = 10; 
+      numposts8= 6;
+      function removeHtmlTag(strx,chop){
+        var s = strx.split("<");
+        for(var i=0;i<s.length;i++){
+          if(s[i].indexOf(">")!=-1){
+            s[i] = s[i].substring(s[i].indexOf(">")+1,s[i].length);
+          }
+        }
+        s =  s.join("");
+        s = s.substring(0,chop-1);
+        return s;
+      }
+      function showrecentposts1(json) {
+        j = (showRandomImg) ? Math.floor((imgr.length+1)*Math.random()) : 0;
+        img  = new Array();
+        if (numposts5 <= json.feed.entry.length) {
+          maxpost = numposts1;
+        }
+        else
+        {
+          maxpost=json.feed.entry.length;
+        } 
+        for (var i = 0; i < maxpost; i++) {
+          var entry = json.feed.entry[i];
+          var posttitle = entry.title.$t;
+          var pcm;
+          var posturl;
+          if (i == json.feed.entry.length) break;
+          for (var k = 0; k < entry.link.length; k++) {
+            if (entry.link[k].rel == 'alternate') {
+              posturl = entry.link[k].href;
+              break;
+            }
+          } 
+          for (var k = 0; k < entry.link.length; k++) {
+            if (entry.link[k].rel == 'replies' && entry.link[k].type == 'text/html') {
+              pcm = entry.link[k].title.split(" ")[0];
+              break;
+            }
+          }  
+          if ("content" in entry) {
+            var postcontent = entry.content.$t;}
+          else
+            if ("summary" in entry) {
+              var postcontent = entry.summary.$t;}
+            else var postcontent = "";
+          postdate = entry.published.$t;
+          if(j>imgr.length-1) j=0;
+          img[i] = imgr[j];
+          s = postcontent ; 
+tintuc = -1 != s.indexOf("[tintuc]") ? s.substring(s.indexOf("[tintuc]") + 8, s.indexOf("[/tintuc]")) : "";
+a = s.indexOf("<img"); b = s.indexOf("src=\"",a); c = s.indexOf("\"",b+5); d = s.substr(b+5,c-b-5);
+          if((a!=-1)&&(b!=-1)&&(c!=-1)&&(d!="")) img[i] = d;
+          //cmtext = (text != 'no') ? '<i><font color="'+acolor+'">('+pcm+' '+text+')</font></i>' : '';
+          var month = [1,2,3,4,5,6,7,8,9,10,11,12];
+          var month2 = ["01","02","03","04","05","06","07","08","09","10","11","12"];
+          var day = postdate.split("-")[2].substring(0,2);
+          var m = postdate.split("-")[1];
+          var y = postdate.split("-")[0];
+          for(var u2=0;u2<month.length;u2++){
+            if(parseInt(m)==month[u2]) {
+              m = month2[u2] ; break;
+            }
+          }
+          var daystr = day+ '/' + m ;
+          var trtd = '<div class="newhome"><div class="image"><a href="'+posturl+'" title="'+posttitle+'"><img alt="'+posttitle+'"  title="'+posttitle+'"  src="'+img[i]+'" style="width:330px;height:198px"  border="0"/></a></div><div class="title"><a  href="'+posturl+'"  title="'+posttitle+'">'+posttitle+'</a></div><div style="clear:both"></div></div>';
+        document.write(trtd);     
+          j++
+        }
+        
+      }
+ function showrecentposts2(json) {
+        j = (showRandomImg) ? Math.floor((imgr.length+1)*Math.random()) : 0;
+        img  = new Array();
+        if (numposts5 <= json.feed.entry.length) {
+          maxpost = numposts1;
+        }
+        else
+        {
+          maxpost=json.feed.entry.length;
+        } 
+        for (var i = 0; i < maxpost; i++) {
+          var entry = json.feed.entry[i];
+          var posttitle = entry.title.$t;
+          var pcm;
+          var posturl;
+          if (i == json.feed.entry.length) break;
+          for (var k = 0; k < entry.link.length; k++) {
+            if (entry.link[k].rel == 'alternate') {
+              posturl = entry.link[k].href;
+              break;
+            }
+          } 
+          for (var k = 0; k < entry.link.length; k++) {
+            if (entry.link[k].rel == 'replies' && entry.link[k].type == 'text/html') {
+              pcm = entry.link[k].title.split(" ")[0];
+              break;
+            }
+          }  
+          if ("content" in entry) {
+            var postcontent = entry.content.$t;}
+          else
+            if ("summary" in entry) {
+              var postcontent = entry.summary.$t;}
+            else var postcontent = "";
+          postdate = entry.published.$t;
+          if(j>imgr.length-1) j=0;
+          img[i] = imgr[j];
+          s = postcontent ; 
+tintuc = -1 != s.indexOf("[tintuc]") ? s.substring(s.indexOf("[tintuc]") + 8, s.indexOf("[/tintuc]")) : "";
+a = s.indexOf("<img"); b = s.indexOf("src=\"",a); c = s.indexOf("\"",b+5); d = s.substr(b+5,c-b-5);
+          if((a!=-1)&&(b!=-1)&&(c!=-1)&&(d!="")) img[i] = d;
+          //cmtext = (text != 'no') ? '<i><font color="'+acolor+'">('+pcm+' '+text+')</font></i>' : '';
+          var month = [1,2,3,4,5,6,7,8,9,10,11,12];
+          var month2 = ["01","02","03","04","05","06","07","08","09","10","11","12"];
+          var day = postdate.split("-")[2].substring(0,2);
+          var m = postdate.split("-")[1];
+          var y = postdate.split("-")[0];
+          for(var u2=0;u2<month.length;u2++){
+            if(parseInt(m)==month[u2]) {
+              m = month2[u2] ; break;
+            }
+          }
+          var daystr = day+ '/' + m ;
+          var trtd = '<div class="newhome"><div class="image"><a href="'+posturl+'" title="'+posttitle+'"><img alt="'+posttitle+'"  title="'+posttitle+'"  src="'+img[i]+'" style="width:330px;height:198px"  border="0"/></a></div><div class="titlen"><a  href="'+posturl+'"  title="'+posttitle+'">'+posttitle+'</a></div><div style="clear:both"></div></div>';
+        document.write(trtd);     
+          j++
+        }
+        
+      }
+//]]>
+</script>
+
+  </head>
+  <div id='fb-root'/>
+<script async='async' crossorigin='anonymous' defer='defer' src='https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&amp;version=v6.0'/>
+  <body>
+          <div id='page'>
+            
+            
+            
+<div class='header_top'>
+  <div class='cover'>
+    <div class='logo'>
+      <a href='/' title='Kênh Học Thêm'><img alt='Kênh Học Thêm' border='0' src='https://1.bp.blogspot.com/-sZLjDNFQQUk/YP5DSq7RsNI/AAAAAAAAAAM/XCYjkG0gd4okNSUsk1h1JVGzu3tiZwc9ACLcBGAsYHQ/s1100/bannerkenhhocthemOK.png' style='width:1080px;height:80px' title='Kênh Học Thêm'/></a>
+    </div>
+    <div class='search'>
+        <p style='text-align: center;'><img alt='Kênh Học Thêm' src='https://1.bp.blogspot.com/-sZLjDNFQQUk/YP5DSq7RsNI/AAAAAAAAAAM/XCYjkG0gd4okNSUsk1h1JVGzu3tiZwc9ACLcBGAsYHQ/s1100/bannerkenhhocthemOK.png' style='width: 1100px; height: 150px;'/></p>
+
+    </div>
+    <div class='mtop'>
+      <b>
+        <a href='tel: Gọi:   097878 2301'>
+         Gọi:   0978782301
+        </a>
+      </b>
+    </div>
+    <div style='clear: both'/>
+  </div>
+</div>
+<div style='clear: both'/>
+<div class='menu'>
+  <div class='cover'>
+    <nav id='cssmenu'>
+      <div id='head-mobile'/>
+      <div class='button'/>
+      <ul>
+        <!--<li class='active'><a href='/' target='_self'>TRANG CHỦ</a></li>
+<li><a href='/2020/05/trung-tam-tai-nang-tre-nha-be.html' target='_blank'>GIỚI THIỆU</a></li>
+<li><a href='/2020/05/tuyen-dung-giao-vien-thang-5.html' target='_blank'>THỦ THUẬT CÔNG NGHỆ</a></li>
+<li><a href='/search/label/TIN-HOC-VAN-PHONG?max-results=7'>TIN HỌC VĂN PHÒNG</a></li>
+<li><a href='/2020/05/hoc-phi-tham-khao-trung-tam-tai-nang-tre.html' target='_blank'>TOÁN THCS</a></li>
+<li class='last'><a href='/2020/05/lien-he-voi-trung-tam-tai-nang-tre.html'>LIÊN HỆ</a></li>-->
+ <li class='active'><a href='/' target='_self'>TRANG CHỦ</a></li>
+        <li> <a href='#'>Tên mục</a> </li>
+        <li> <a href='#'>Tên mục</a> </li>
+        <li> <a href='#'>Menu</a>
+            <ul>
+                <li><a href='#'>Menu 1</a></li>
+                <li><a href='#'>Menu 2</a></li>
+                <li><a href='#'>Menu 3</a></li>
+            </ul>
+        </li>
+
+
+      </ul>
+    </nav>
+  </div>
+</div>
+
+            
+<div id='home' style='padding-top:10px;'>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+  <style>#phungthehien{display:none}</style>
+  <div class='cover'>
+    <div class='slide'>
+      <div class='owl-carousel' id='owl-demo'>
+        <div class='item'><a href='/' target='_self'><img alt='Kênh Học Thêm' border='0' src='https://1.bp.blogspot.com/-pYkXBzTjlkM/XVt98mB0N-I/AAAAAAAABF8/szpumlpvulYbOU914A4ac4K20Sfzj9i-wCLcBGAs/s1600/banner-dienmayxanh.png' style='width:1080px;height:280px' title='Điện máy xanh'/></a></div>
+      </div>
+    </div>
+    <style> #owl-demo .item img{ display: block; width: 100%; height: auto; } </style>
+<!--
+   <script>
+         $(document).ready(function () {
+             var owl = $(&quot;#owl-demo&quot;);
+             owl.owlCarousel({
+                 autoPlay: 3000,
+                 stopOnHover: true,
+                 navigation: true,
+                 itemsCustom: [
+                   [0, 1],
+                   [450, 1],
+                   [600, 1],
+                   [700, 1],
+                   [1000, 1],
+                   [1200, 1],
+                   [1400, 1],
+                   [1600, 1]
+                 ],
+                 navigation: true
+
+             });
+
+         });
+        </script>
+-->
+    <div style='clear:both'/>
+  </div>
+  <div class='cover'>
+    <div class='boxtitle'>
+        <p style='text-align: center;'><img alt='Kênh Học Thêm' id='' longdesc='#' src='https://1.bp.blogspot.com/-p_rQixd-PG4/YP5MR_eC-qI/AAAAAAAAAAU/fVTJQP7zgaMxNEiMc86ghiaIT7jUm8UVACLcBGAsYHQ/s640/bannerQC.png' style='width: 1080px;' title=''/><br/>
+<span style='display: none;'>&amp;nbsp;</span></p>
+
+<p style='text-align: center;'><span style='font-size:14px;'><span style='display: none;'>&amp;nbsp;</span></span></p>
+
+    </div>
+    <div class='content'>
+
+      <div style='clear:both'/>
+    </div>
+    <!-- HOT LIST -->
+    <div class='boxtitle'>
+      <h2>
+        <a>CÁC KHÓA HỌC MIỄN PHÍ</a>
+      </h2>
+    </div>
+    <div class='content'>
+      <div class='boxproduct watermark'>
+            
+            <div class='product'>
+                <div class='thumb'>
+                    <a href='/2021/07/tu-hoc-word-2019.html' title='WORD 2019'><img alt='WORD 2019' border='0' src='https://1.bp.blogspot.com/-jaw4xek8c5Y/YP6BtQHQIGI/AAAAAAAAAAk/tTbj1i0b4ckaE0xduZl5YRr9y9dTPND0wCLcBGAsYHQ/s259/THUM_KHOAHOC_FREE_word.png' style='width:223px;height:125px' title='PHÁT TRIỂN NĂNG LỰC'/></a>
+                </div>
+                <div class='info'>
+                    <a href='/2021/07/tu-hoc-word-2019.html' title='TỰ HỌC WORD 2019'>TỰ HỌC WORD 2019</a>
+                </div>
+            </div>
+            
+            <div class='product'>
+                <div class='thumb'>
+                    <a href='/2021/07/tu-hoc-exel-2019.html' title='TỰ HỌC EXEL 2019'><img alt='TỰ HỌC EXEL 2019' border='0' src='https://1.bp.blogspot.com/-2eOyDlIECSU/YP6HP0A2lBI/AAAAAAAAAAs/aJDvs0GDSdwQFKReCfhbKUuONwJ4DYwmgCLcBGAsYHQ/s259/THUM_KHOAHOC_FREE_EXEL.png' style='width:223px;height:125px' title='PHÁT TRIỂN NĂNG LỰC'/></a>
+                </div>
+                <div class='info'>
+                    <a href='/2021/07/tu-hoc-exel-2019.html' title='TỰ HỌC EXEL 2019'>TỰ HỌC EXEL 2019</a>
+                </div>
+            </div>
+            
+            <div class='product'>
+                <div class='thumb'>
+                    <a href='/2020/05/lay-lai-can-ban-cho-hoc-sinh.html' title='LẤY LẠI CĂN BẢN CHO HỌC SINH'><img alt='LẤY LẠI CĂN BẢN CHO HỌC SINH' border='0' src='https://3.bp.blogspot.com/-TgUWxP5jpuE/XrFyxEhejCI/AAAAAAAAAC8/wDWY_bOlJCUCHp20ZbVsOlnKkd1OlNedACLcBGAsYHQ/s1600/matgockienthuc.jpg' style='width:223px;height:125px' title='LẤY LẠI CĂN BẢN CHO HỌC SINH'/></a>
+                </div>
+                <div class='info'>
+                    <a href='/2020/05/lay-lai-can-ban-cho-hoc-sinh.html' title='LẤY LẠI CĂN BẢN CHO HỌC SINH'>LẤY LẠI CĂN BẢN CHO HỌC SINH</a>
+                </div>
+            </div>
+            
+            <div class='product'>
+                <div class='thumb'>
+                    <a href='/2020/05/tin-hoc-cho-nguoi-di-lam.html' title='TIN HỌC CHO NGƯỜI ĐI LÀM'><img alt='TIN HỌC CHO NGƯỜI ĐI LÀM' border='0' src='https://2.bp.blogspot.com/-Zna1elgVTYA/XsN1Pn0oj_I/AAAAAAAAAJ8/EaywC0mECJEpWk6qqtmnOxhw3CH1sq-TwCLcBGAsYHQ/s1600/HINH4.png' style='width:223px;height:125px' title='TIN HỌC CHO NGƯỜI ĐI LÀM'/></a>
+                </div>
+                <div class='info'>
+                    <a href='/2020/05/tin-hoc-cho-nguoi-di-lam.html' title='TIN HỌC CHO NGƯỜI ĐI LÀM'>TIN HỌC CHO NGƯỜI ĐI LÀM</a>
+                </div>
+            </div>
+            
+            <div class='product'>
+                <div class='thumb'>
+                    <a href='/2020/05/hoc-truc-tuyen.html' title='HỌC TRỰC TUYẾN'><img alt='HỌC TRỰC TUYẾN' border='0' src='https://2.bp.blogspot.com/-wTG2xX7UDz0/XrFu63RP5kI/AAAAAAAAACU/k5S2ZttU24Q3K_qbF2K_VWAoDagJX4LHwCLcBGAsYHQ/s1600/hoctructuyen.jpg' style='width:223px;height:125px' title='HỌC TRỰC TUYẾN'/></a>
+                </div>
+                <div class='info'>
+                    <a href='/2020/05/hoc-truc-tuyen.html' title='HỌC TRỰC TUYẾN'>HỌC TRỰC TUYẾN</a>
+                </div>
+            </div>
+            
+            <div class='product'>
+                <div class='thumb'>
+                    <a href='/2020/05/hoc-thu-mien-phi.html' title='HỌC THỬ MIỄN PHÍ'><img alt='HỌC THỬ MIỄN PHÍ' border='0' src='https://1.bp.blogspot.com/-lvB40v2q6Sk/XrFvRGjk43I/AAAAAAAAACc/sQ9JVKqeZOYcptgUHqSPTdctSS2rMDZbACLcBGAsYHQ/s1600/hoctructuyenFREE.jpg' style='width:223px;height:125px' title='HỌC THỬ MIỄN PHÍ'/></a>
+                </div>
+                <div class='info'>
+                    <a href='/2020/05/hoc-thu-mien-phi.html' title='HỌC THỬ MIỄN PHÍ'>HỌC THỬ MIỄN PHÍ</a>
+                </div>
+            </div>
+            
+            <div class='product'>
+                <div class='thumb'>
+                    <a href='/2020/05/gia-su-tai-nha.html' title='GIA SƯ TẠI NHÀ'><img alt='GIA SƯ TẠI NHÀ' border='0' src='https://1.bp.blogspot.com/-kBEmF57-VFs/XrFvxyFx_CI/AAAAAAAAACk/BVms9LRrIq8IKTOrBvzb_Vc7O7R7nK1ZgCLcBGAsYHQ/s1600/giasutainha.jpg' style='width:223px;height:125px' title='GIA SƯ TẠI NHÀ'/></a>
+                </div>
+                <div class='info'>
+                    <a href='/2020/05/gia-su-tai-nha.html' title='GIA SƯ TẠI NHÀ'>GIA SƯ TẠI NHÀ</a>
+                </div>
+            </div>
+            
+            <div class='product'>
+                <div class='thumb'>
+                    <a href='/2020/05/doi-ngu-giao-vien-trung-tam-tai-nang-tre.html' title='ĐỘI NGŨ GIÁO VIÊN'><img alt='ĐỘI NGŨ GIÁO VIÊN' border='0' src='https://3.bp.blogspot.com/-3lF99T5Gswk/XrFxGZx9CxI/AAAAAAAAACw/xE2Cx0OAZ7I2CEDPRqo70UUhKkAaagJEACLcBGAsYHQ/s1600/doingugv.jpg' style='width:223px;height:125px' title='ĐỘI NGŨ GIÁO VIÊN'/></a>
+                </div>
+                <div class='info'>
+                    <a href='/2020/05/doi-ngu-giao-vien-trung-tam-tai-nang-tre.html' title='ĐỘI NGŨ GIÁO VIÊN'>ĐỘI NGŨ GIÁO VIÊN</a>
+                </div>
+            </div>  
+        <div style='clear:both'/>
+      </div>
+    </div>
+    <div class='content'>
+
+
+          <div class='boxlist'>
+        <div class='item1'>
+          <div class='bxhtitle'>
+            <h3>TIN TỨC GIÁO DỤC</h3>
+          </div>
+          <div class='top1'>
+    <script language='JavaScript'> //<![CDATA[
+document.write("<script src=\"/feeds/posts/default/-/TIN TỨC GIÁO DỤC?max-results="+3+"&orderby=published&alt=json-in-script&callback=showrecentposts1\"><\/script>");      //]]>
+</script>
+       </div>
+        </div>
+      </div>
+
+          <div class='boxlist'>
+        <div class='item1'>
+          <div class='bxhtitle'>
+            <h3>KHU VỰC CHIA SẺ ĐỀ THI</h3>
+          </div>
+          <div class='top1'>
+         <script language='JavaScript'> //<![CDATA[
+document.write("<script src=\"/feeds/posts/default/-/KHU VỰC CHIA SẺ ĐỀ THI?max-results="+3+"&orderby=published&alt=json-in-script&callback=showrecentposts1\"><\/script>");      //]]>
+</script>
+            
+       </div>
+        </div>
+      </div>
+
+          <div class='boxlist'>
+        <div class='item1'>
+          <div class='bxhtitle'>
+            <h3>BÀI ĐĂNG MỚI NHẤT</h3>
+          </div>
+          <div class='top1'>
+           <script language='JavaScript'> //<![CDATA[
+document.write("<script src=\"/feeds/posts/default/-/BÀI ĐĂNG MỚI NHẤT?max-results="+3+"&orderby=published&alt=json-in-script&callback=showrecentposts1\"><\/script>");      //]]>
+</script>
+            
+       </div>
+        </div>
+      </div>
+      
+      <div style='clear:both'/>
+    </div>
+  </div>
+</b:if> 
+  <div id='phungthehien'>
+<div class='cover'>
+<div class='left'>
+<b:if cond='data:blog.pageType == &quot;error_page&quot;'>
+<section class='content-wrapper'>
+<div class='container'>
+<div class='std'>
+<div class='page-not-found'>
+<h2>404</h2>
+<h3>Không tìm thấy trang mà bạn yêu cầu!</h3>
+<div><a href='/'><span>Quay lại trang chủ</span></a></div>
+</div>
+</div>
+</div>
+</section>
+<style>
+  #Blog1 {display:none}
+.content-wrapper {
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.content-wrapper a{
+ background: gray;
+    border-radius: 7px;
+    padding: 10px 10px;
+    font-size: 15px;
+    color: white;
+}
+.page-not-found h2 {
+    color: #5acbc2;
+    font-size: 160px;
+    font-weight: bold;
+    line-height: 1;
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page-not-found h3 {
+    color: #333;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 4em;
+    text-transform: none;
+}
+</style>
+</b:if>
+<b:if cond='data:blog.searchLabel'>
+  <style>#baiviet{display:none}</style>
+<div class='view'>   
+<h1><data:blog.pageName/></h1>                
+</div>
+
+<script type='text/javascript'>
+homepageurl=&quot;https://hocthemnhabe.com/&quot;;
+sumpost = 50;
+numposts = 16; 
+sumtitlep = 43;
+</script>
+
+<script type='text/javascript'>
+//<![CDATA[
+String.prototype.GetValue = function (h) {
+    h = RegExp("(^|&)" + h + "=([^&]*)(&|$)");
+    h = this.substr(this.indexOf("?") + 1)
+        .match(h);
+    return null != h ? unescape(h[2]) : null
+};
+var str = location.href,
+    page = str.GetValue("page"),
+    view = str.GetValue("v"),
+    urllength = homepageurl.length;
+void 0 == page && (page = "1");
+void 0 == view && (view = "full");
+if (-1 != str.indexOf("search/label")) {
+    if (-1 != str.indexOf("?")) var str1 = str.split("?")[0],
+        label = str1.substring(urllength + 13, str1.length);
+    else label = str.substring(urllength + 13, str.length);
+    var textlabel = "/-/" + label,
+        textpage = "" + label
+} else textpage = textlabel = "";
+
+function stripHtmlTags(h, k) {
+    h = h.replace(/<br.*?>/ig, " ");
+    return h.replace(/<.*?>/ig, "")
+        .split(/\s+/)
+        .slice(0, k - 1)
+        .join(" ")
+}
+
+function showrecentposts(h) {
+    img = [];
+    for (var k = 0; k < numposts; k++) {
+        var g = h.feed.entry[k],
+            f = g.title.$t,
+            l;
+        var pcm;
+        if (k == h.feed.entry.length) break;
+        for (var e = 0; e < g.link.length; e++)
+            if ("alternate" == g.link[e].rel) {
+                l = g.link[e].href;
+                break
+            }
+        for (e = 0; e < g.link.length; e++)
+            if ("replies" == g.link[e].rel && "text/html" == g.link[e].type) {
+                g.link[e].title.split(" ");
+                pcm = g.link[e].title.split(" ")[0];
+                break
+            }
+var plabel = new Array();
+var cate = g.category;
+if(cate) {
+for (var e = 0; e < g.category.length; e++) {
+plabel[e] = ' <a class="label-link" href="/search/label/'+g.category[e].term+'">'+g.category[e].term+'</a> ';
+}
+}
+else {plabel = "No label";}
+var authpost = g.author[0].name.$t;
+var label1= ' <a class="label-link" href="/search/label/'+g.category[0].term+'">'+g.category[0].term+'</a> ';
+        if (g.category)
+            for (e = 0; e < g.category.length; e++);
+        var e = g.published.$t,
+            m = e.split("-")[2].substring(0, 2),
+            n = e.split("-")[1],
+            e = e.split("-")[0];
+        postDay = m + "/" + n + "/" + e;
+if ("content" in g) {
+var postcontent = g.content.$t;}
+else
+if ("summary" in g) {
+var postcontent = g.summary.$t;}
+else postcontent = "";
+
+s = postcontent; a = s.indexOf("<img"); b = s.indexOf("src=\"",a); c = s.indexOf("\"",b+5); d = s.substr(b+5,c-b-5);
+
+if((a!=-1)&&(b!=-1)&&(c!=-1)&&(d!="")) {img[k] = d;} else {img[k]="https://lh3.googleusercontent.com/-AUxGwRmuU-E/U8ElIkyjdPI/AAAAAAAAITM/A2uBu8llLJ0/s0/noimage.jpg";}
+
+if (pcm==0) {var comment = " 0 Comments";}
+//else if (pcm==1) {var comment = " "+ pcm + " Comment ";} 
+else {var comment = '<font>'+ pcm +'</font> Comments';}
+
+f = '<div class="newlist"><div class="img"><a href="'+l+'" title="'+f+'"><img alt="'+f+'" title="'+f+'" src="' + img[k] + '" style="width:330px;height:198px" border="0"></a></div><div class="des"><h2><a href="'+l+'" title="'+f+'">'+f+'</a></h2><p>'+f+'</p></div><div style="clear:both;"></div></div>';
+        document.write(f)
+    }
+  document.write('<div style="clear:both;"></div>')
+}
+
+function numberOfPosts(h) {
+    document.write('<script style="text/javascript">var totalPosts= ' + h.feed.openSearch$totalResults.$t + " ;<\/script>")
+}
+document.write('<script src="/feeds/posts/default' + textlabel + '?alt=json-in-script&callback=numberOfPosts"><\/script>');
+//]]></script>
+ 
+<div class='clear'/>
+<script type='text/javascript'>/* <![CDATA[ */ 
+if (-1 != str.indexOf("archive.html")) document.write("");
+else {
+    var rcpage = [],
+        numpage = totalPosts / numposts,
+        lastnum = totalPosts % numposts;
+    0 == lastnum && (numpage += 1);
+    for (var m = 1; m < numpage; m++) {
+        var start = numposts * (m - 1) + 1;
+        rcpage[m] = '<script src="/feeds/posts/default' + textlabel + "?start-index=" + start + "&max-results=" + numposts + '&orderby=published&alt=json-in-script&callback=showrecentposts"><\/script>'
+    }
+    if (page > numpage && page < numpage + 1 && 0 < lastnum) {
+        var numposts = lastnum,
+            start = totalPosts - lastnum + 1;
+        document.write('<script src="/feeds/posts/default' + textlabel + "?start-index=" + start + "&max-results=" + numposts + '&orderby=published&alt=json-in-script&callback=showrecentposts"><\/script>')
+    } else page > numpage || page > numpage - 1 && 0 == lastnum ? document.write("") : document.write(rcpage[page])
+};
+</script> 
+<script type='text/javascript'>
+  var pagelist = 0 == lastnum ? totalPosts / numposts : numpage + 1,
+    pagelist1 = parseInt(pagelist),
+    npage = parseFloat(page);
+if (page <= parseInt(pagelist)) {
+    if (2 <= pagelist && 6 > pagelist1) {
+        document.write("<div id=\"page-rc-tooltip\">");
+        for (var n = 1; n < pagelist1 + 1; n++) {
+            var navpage = n == npage ? ' <span class="currentpage" >' + n + "</span>" : ' <a class=\"pagelink\" href="?v=' + view + "&page=" + n + '">' + n + "</a>";
+            document.write(navpage)
+        }
+        document.write("</div>")
+    }
+    if (6 <= pagelist && 4 > page) {
+        document.write('<div id="page-rc-tooltip">Page (' + page + "/" + parseInt(pagelist) + ") : ");
+        for (n = 1; 6 > n; n++) navpage = n == npage ? ' <span class="currentpage" >' + n + "</span>" : ' <a class=\"pagelink\" href="?v=' + view + "&page=" + n + '">' + n + "</a>", document.write(navpage);
+        5 < parseInt(pagelist) ? document.write(' ... <a class=\"pagelink\" href="?v=' + view + "&page=" + parseInt(pagelist) + '">Last</a></div>') : document.write("</div>")
+    } else if (6 <= pagelist && 3 < page && page < parseInt(pagelist) - 2) {
+        var first = page - 2,
+            last = first + 5;
+        document.write('<div id="page-rc-tooltip">Page (' + page + "/" + parseInt(pagelist) + ') : <a class=\"pagelink\" href="?v=' + view + '&page=1">First</a> ...');
+        for (n = first; n < last; n++) navpage = n == npage ? ' <span class="currentpage" >' + n + "</span>" : ' <a class=\"pagelink\" href="?v=' + view + "&page=" + n + '">' + n + "</a>", document.write(navpage);
+        document.write(' ... <a class=\"pagelink\" href="?v=' + view + "&page=" + parseInt(pagelist) + '">Last</a></div>')
+    } else if (6 <= pagelist && 3 < page && page > parseInt(pagelist) - 3) {
+        first = parseInt(pagelist) - 4;
+        last = parseInt(pagelist) + 1;
+        document.write('<div id="page-rc-tooltip">Page (' + page + "/" + parseInt(pagelist) + ') : <a class=\"pagelink\" href="?v=' + view + '&page=1">First</a> ...');
+        for (n = first; n < last; n++) navpage = n == npage ? ' <span class="currentpage" >' + n + "</span>" : ' <a class=\"pagelink\" href="?v=' + view + "&page=" + n + '">' + n + "</a>", document.write(navpage);
+        document.write("</div>")
+    }
+};
+/* ]]> */ </script>
+</b:if>
+<!-- code trang bài viết -->
+  <div class='page' id='baiviet'>
+    <b:with value='data:widgets.AdSense any (w =&gt; w.sectionId == &quot;ads&quot;)' var='hasVerticalAds'>
+        <div class='page_body'>      
+              <main class='centered-bottom' id='main' role='main'>
+                <b:if cond='data:view.isMultipleItems'>
+                 
+                </b:if>
+                <b:if cond='data:view.isArchive or (data:view.isSearch and data:view.search.resultsMessageHtml)'>
+                  <div class='post-filter-message'>
+                    <div>
+                      <b:if cond='data:view.isArchive'>
+                        <data:view.archive.rangeMessage/>
+                      <b:elseif cond='data:view.isSearch and data:view.search.resultsMessageHtml'/>
+                        <data:view.search.resultsMessageHtml/>
+                      </b:if>
+                    </div>
+                    <div>
+                      <a class='flat-button ripple' expr:href='data:blog.homepageUrl'>
+                        <data:messages.showAll/>
+                      </a>
+                    </div>
+                  </div>
+                </b:if>
+<b:if cond='data:blog.url != data:blog.homepageUrl'>
+                <b:section class='main' id='page_body' name='Page Body' showaddelement='false'>
+                  <b:widget id='Blog1' locked='true' title='Bài đăng trên Blog' type='Blog' version='1'>
+                    <b:widget-settings>
+                      <b:widget-setting name='showDateHeader'>true</b:widget-setting>
+                      <b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
+                      <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+                      <b:widget-setting name='authorLabel'>By</b:widget-setting>
+                      <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+                      <b:widget-setting name='style.urlcolor'>#008000</b:widget-setting>
+                      <b:widget-setting name='showAuthor'>false</b:widget-setting>
+                      <b:widget-setting name='disableGooglePlusShare'>true</b:widget-setting>
+                      <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
+                      <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+                      <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+                      <b:widget-setting name='reactionsLabel'/>
+                      <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+                      <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+                      <b:widget-setting name='showLabels'>true</b:widget-setting>
+                      <b:widget-setting name='showLocation'>false</b:widget-setting>
+                      <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+                      <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+                      <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+                      <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+                      <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+                      <b:widget-setting name='showReactions'>false</b:widget-setting>
+                    </b:widget-settings>
+                    <b:includable id='main' var='top'>
+<b:if cond='data:numPosts == 0'>
+ <data:navMessage/>
+</b:if>
+  <!-- posts -->
+  <div class='blog-posts hfeed'>
+
+   <b:include data='posts' name='breadcrumb'/>
+    <h1><data:blog.pageName/></h1>
+    <data:defaultAdStart/>
+    <b:loop values='data:posts' var='post'>
+    <!-- tối ưu seo description cho bài viết-->
+<meta expr:content='data:post.snippet' name='description'/>
+<link expr:href='data:post.url' rel='canonical'/>
+      <title><data:post.title/></title>
+      <b:if cond='data:post.isDateStart'>
+        <b:if cond='data:post.isFirstPost == &quot;false&quot;'>
+          &lt;/div&gt;&lt;/div&gt;
+        </b:if>
+      </b:if>
+      <b:if cond='data:post.isDateStart'>
+        &lt;div class=&quot;date-outer&quot;&gt;
+      </b:if>
+      
+      <b:if cond='data:post.isDateStart'>
+        &lt;div class=&quot;date-posts&quot;&gt;
+      </b:if>
+      <div class='post-outer'>
+<b:include data='post' name='post'/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'><script type='text/javascript'>
+document.write(fbcm);
+</script>
+</b:if>
+      <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+        <b:include data='post' name='comments'/>
+      </b:if>
+      <b:if cond='data:blog.pageType == &quot;item&quot;'>
+        <b:include data='post' name='comments'/>
+      </b:if>
+      </div>
+      <b:if cond='data:post.includeAd'>
+        <b:if cond='data:post.isFirstPost'>
+          <data:defaultAdEnd/>
+        <b:else/>
+          <data:adEnd/>
+        </b:if>
+        <div class='inline-ad'>
+          <data:adCode/>
+        </div>
+        <data:adStart/>
+      </b:if>
+      <b:if cond='data:post.trackLatency'>
+        <data:post.latencyJs/>
+      </b:if>
+    </b:loop>
+    <b:if cond='data:numPosts != 0'>
+      &lt;/div&gt;&lt;/div&gt;
+    </b:if>
+    <data:adEnd/>
+  </div>
+  <b:if cond='data:blog.pageType == &quot;index&quot;'>
+  <!-- navigation -->
+<div class='clear'/>
+  <b:include name='nextprev'/>
+</b:if>
+  <!-- feed links -->
+  <b:include name='feedLinks'/>
+  
+  <b:if cond='data:top.showStars'>
+    <script src='//www.google.com/jsapi' type='text/javascript'/>
+    <script type='text/javascript'>
+      google.load(&quot;annotations&quot;, &quot;1&quot;, {&quot;locale&quot;: &quot;<data:top.languageCode/>&quot;});
+      function initialize() {
+        google.annotations.setApplicationId(<data:top.blogspotReviews/>);
+        google.annotations.createAll();
+        google.annotations.fetch();
+      }
+      google.setOnLoadCallback(initialize);
+    </script>
+  </b:if>
+</b:includable>
+                    <b:includable id='backlinkDeleteIcon' var='backlink'>
+  <span expr:class='&quot;item-control &quot; + data:backlink.adminClass'>
+    <a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'>
+      <img src='//www.blogger.com/img/icon_delete13.gif'/>
+    </a>
+  </span>
+</b:includable>
+                    <b:includable id='backlinks' var='post'>
+  <a name='links'/><h4><data:post.backlinksLabel/></h4>
+  <b:if cond='data:post.numBacklinks != 0'>
+    <dl class='comments-block' id='comments-block'>
+      <b:loop values='data:post.backlinks' var='backlink'>
+        <div class='collapsed-backlink backlink-control'>
+          <dt class='comment-title'>
+            <span class='backlink-toggle-zippy'>&#160;</span>
+            <a expr:href='data:backlink.url' rel='nofollow'><data:backlink.title/></a>
+            <b:include data='backlink' name='backlinkDeleteIcon'/>
+          </dt>
+          <dd class='comment-body collapseable'>
+            <data:backlink.snippet/>
+          </dd>
+          <dd class='comment-footer collapseable'>
+            <span class='comment-author'><data:post.authorLabel/> <data:backlink.author/></span>
+            <span class='comment-timestamp'><data:post.timestampLabel/> <data:backlink.timestamp/></span>
+          </dd>
+        </div>
+      </b:loop>
+    </dl>
+  </b:if>
+  <!--<p class='comment-footer'>
+    <a class='comment-link' expr:href='data:post.createLinkUrl' expr:id='data:widget.instanceId + &quot;_backlinks-create-link&quot;' target='_blank'><data:post.createLinkLabel/></a>
+  </p>-->
+</b:includable>
+                    <b:includable id='breadcrumb' var='posts'>
+<b:if cond='data:blog.homepageUrl != data:blog.url'>
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+<div class='breadcrumbs'><span><a expr:href='data:blog.homepageUrl' rel='tag'>Trang chủ</a></span> <i class='fa fa-caret-right fa-fw'/> <span><data:blog.pageName/></span></div>
+<b:else/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<!-- breadcrumb for the post page -->
+<b:loop values='data:posts' var='post'>
+<b:if cond='data:post.labels'>
+<!--<div class='breadcrumbs' xmlns:v='http://rdf.data-vocabulary.org/#'>
+<span typeof='v:Breadcrumb'><a expr:href='data:blog.homepageUrl' property='v:title' rel='v:url'>Trang chủ</a></span>
+<b:loop values='data:post.labels' var='label'>
+<b:if cond='data:label.isLast == &quot;true&quot;'>
+<i class='fa fa-caret-right fa-fw'/> <span typeof='v:Breadcrumb'><a expr:href='data:label.url' property='v:title' rel='v:url'><data:label.name/></a></span>
+</b:if>
+</b:loop>
+<i class='fa fa-caret-right fa-fw'/> <span><data:post.title/></span>
+</div>-->
+<b:else/>
+<div class='breadcrumbs'><span><a expr:href='data:blog.homepageUrl' rel='tag'>Trang chủ</a></span> <i class='fa fa-caret-right fa-fw'/> <span/> <i class='fa fa-caret-right fa-fw'/> <span><data:post.title/></span></div>
+</b:if>
+</b:loop>
+<b:else/>
+<b:if cond='data:blog.pageType == &quot;archive&quot;'>
+<!-- breadcrumb for the label archive page and search pages.. -->
+<div class='breadcrumbs'>
+<span><a expr:href='data:blog.homepageUrl'>Trang chủ</a></span> <i class='fa fa-caret-right fa-fw'/> <span> <data:blog.pageName/></span>
+</div>
+<b:else/>
+<b:if cond='data:blog.pageType == &quot;index&quot;'>
+<div class='breadcrumbs'>
+<b:if cond='data:blog.pageName == &quot;&quot;'>
+<span><a expr:href='data:blog.homepageUrl'>Trang chủ</a></span> <i class='fa fa-caret-right fa-fw'/> <span/>
+<b:else/>
+<span><a expr:href='data:blog.homepageUrl'>Trang chủ</a></span> <i class='fa fa-caret-right fa-fw'/> <span> <data:blog.pageName/></span>
+</b:if>
+</div>
+</b:if>
+</b:if>
+</b:if>
+</b:if>
+</b:if>
+</b:includable>
+                    <b:includable id='comment-form' var='post'>
+ <div class='comment-form'>
+    <a name='comment-form'/>
+    <!--<h4 id='comment-post-message'><data:postCommentMsg/></h4>
+    <p><data:blogCommentMessage/></p>-->
+    <data:blogTeamBlogMessage/>
+    <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+    <data:post.friendConnectJs/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;, &#39;<data:post.communityId/>&#39;);
+    </script>
+  </div> 
+</b:includable>
+                    <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'>
+      <img src='//www.blogger.com/img/icon_delete13.gif'/>
+    </a>
+  </span>
+</b:includable>
+                    <b:includable id='comment_count_picker' var='post'>
+  <b:if cond='data:post.forceIframeComments'>
+    <span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-url='data:post.canonicalUrl'>
+    </span>
+  <b:else/>
+    <b:if cond='data:post.commentSource == 1'>
+      <span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-url='data:post.canonicalUrl'>
+      </span>
+    <b:else/>
+      <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'>
+        <data:post.commentLabelFull/>:
+      </a>
+    </b:if>
+  </b:if>
+</b:includable>
+                    <b:includable id='comment_picker' var='post'>
+  <b:if cond='data:post.forceIframeComments'>
+    <b:include data='post' name='iframe_comments'/>
+    <b:if cond='data:post.showThreadedComments'>
+      <b:include data='post' name='threaded_comments'/>
+    <b:else/>
+      <b:include data='post' name='comments'/>
+    </b:if>
+  <b:else/>
+    <b:if cond='data:post.commentSource == 1'>
+      <b:include data='post' name='iframe_comments'/>
+    <b:else/>
+      <b:if cond='data:post.showThreadedComments'>
+        <b:include data='post' name='threaded_comments'/>
+      <b:else/>
+        <b:include data='post' name='comments'/>
+      </b:if>
+    </b:if>
+  </b:if>
+</b:includable>
+                    <b:includable id='comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+      <h4>
+        <b:if cond='data:post.numComments == 0'>
+        <b:else/>
+         <div style='color:#006678;font-weight:bold;float:right;padding : 0px 20px 0px 0px; font-size: 12px;'><data:post.numComments/> Bình luận 
+
+</div><div class='clear'/>
+        </b:if>
+      </h4>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'><data:post.oldestLinkText/></a>
+          &#160;
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'><data:post.olderLinkText/></a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'><data:post.newerLinkText/></a>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'><data:post.newestLinkText/></a>
+        </span>
+      </b:if>
+
+      <div expr:class='data:post.postAuthorClass' expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+         <dl expr:class='data:post.avatarIndentClass' id='comments-block'>
+<script type='text/javascript'>var CommentsCounter= 0;</script>
+          <b:loop values='data:post.comments' var='comment'>         
+ 
+ 
+     <dd class='comment-body'><div class='comment-body-wrap'>
+<b:if cond='data:comment.favicon'>
+                <img expr:src='data:comment.favicon' height='35px' style='margin-bottom:-2px;' width='16px'/>
+              </b:if>
+              <a expr:name='data:comment.anchorName'/>
+             <b:if cond='data:blog.enabledCommentProfileImages'>
+                <data:comment.authorAvatarImage/>
+              </b:if>
+ <div class='comm-num'>
+<script type='text/javascript'>
+CommentsCounter=CommentsCounter+1;
+document.write(CommentsCounter)
+</script>
+</div>
+
+<div class='comments-info'>
+
+<span class='name-commenters'>
+              <b:if cond='data:comment.authorUrl'>
+                <a expr:href='data:comment.authorUrl' rel='dofollow'><b><data:comment.author/></b></a>
+              <b:else/>
+                <span style='color:#333'><b><data:comment.author/></b></span>
+              </b:if></span>
+             
+<br/>
+               <span class='cm-date'><data:comment.timestamp/></span>
+
+                <b:include data='comment' name='commentDeleteIcon'/>
+   
+<div class='line-border' style='margin-right:8px'/>
+           </div>
+ 
+           <b:if cond='data:comment.author == data:post.author'>
+<div class='blog-author-comment'>
+<data:comment.body/>
+
+</div>
+<b:else/>
+<b:if cond='data:comment.isDeleted'>
+<div class='deleted-comment'><strike><data:comment.body/></strike></div>
+<b:else/>
+<div class='guest-comment'>
+<data:comment.body/>
+</div>
+</b:if> 
+</b:if>  
+</div> 
+</dd>
+          </b:loop>
+        </dl>
+    </div>
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+            <data:post.oldestLinkText/>
+          </a>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+            <data:post.olderLinkText/>
+          </a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+            <data:post.newerLinkText/>
+          </a>
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+            <data:post.newestLinkText/>
+          </a>
+        </span>
+      </b:if>
+
+      <p class='comment-footer'>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='comment-form'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:else/>
+          <b:if cond='data:post.allowComments'>
+            <a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+          </b:if>
+        </b:if>
+
+      </p>
+    </b:if>
+
+    
+  </div>
+</b:includable>
+                    <b:includable id='feedLinks'>
+  <b:if cond='data:blog.pageType != &quot;item&quot;'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+
+  <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:include cond='data:post.allowComments and data:post.feedLinks' data='post.feedLinks' name='feedLinksBody'/>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+                    <b:includable id='feedLinksBody' var='links'/>
+                    <b:includable id='iframe_comments' var='post'>
+
+  <b:if cond='data:post.allowIframeComments'>
+    <script expr:src='data:post.iframeCommentSrc' type='text/javascript'/>
+    <div class='cmt_iframe_holder' expr:data-href='data:post.canonicalUrl' expr:data-viewtype='data:post.viewType'/>
+
+    <b:if cond='data:post.embedCommentForm == &quot;false&quot;'>
+      <a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+    </b:if>
+  </b:if>
+</b:includable>
+                    <b:includable id='mobile-index-post' var='post'>
+  <div class='mobile-date-outer date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <div class='date-header'>
+        <span><data:post.dateHeader/></span>
+      </div>
+    </b:if>
+
+    <div class='mobile-post-outer'>
+      <a expr:href='data:post.url'>
+        <h3 class='mobile-index-title entry-title'>
+          <data:post.title/>
+        </h3>
+
+        <div class='mobile-index-arrow'>&amp;rsaquo;</div>
+
+        <div class='mobile-index-contents'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <div class='mobile-index-thumbnail'>
+              <div class='Image'>
+                <img expr:src='data:post.thumbnailUrl'/>
+              </div>
+            </div>
+          </b:if>
+
+          <div class='post-body'>
+            <b:if cond='data:post.snippet'><data:post.snippet/></b:if>
+          </div>
+        </div>
+
+        <div style='clear: both;'/>
+      </a>
+
+      <div class='mobile-index-comment'>
+        <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+          <b:if cond='data:post.allowComments'>
+            <b:if cond='data:post.numComments != 0'>
+              <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><b:if cond='data:post.numComments == 1'>1 <data:top.commentLabel/><b:else/><data:post.numComments/> <data:top.commentLabelPlural/></b:if></a>
+            </b:if>
+          </b:if>
+        </b:if>
+      </div>
+    </div>
+  </div>
+</b:includable>
+                    <b:includable id='mobile-main' var='top'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+      <b:include data='posts' name='breadcrumb'/>
+      <b:if cond='data:blog.pageType == &quot;index&quot;'>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-index-post'/>
+        </b:loop>
+      <b:else/>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-post'/>
+        </b:loop>
+      </b:if>
+    </div>
+   <b:include name='mobile-nextprev'/>
+</b:includable>
+                    <b:includable id='mobile-nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'>&amp;lsaquo;</a>
+      </div>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'>&amp;rsaquo;</a>
+      </div>
+    </b:if>
+
+    <div class='mobile-link-button' id='blog-pager-home-link'>
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+    </div>
+
+    <div class='mobile-desktop-link'>
+      <a class='home-link' expr:href='data:desktopLinkUrl'><data:desktopLinkMsg/></a>
+    </div>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+                    <b:includable id='mobile-post' var='post'>
+  <div class='date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+    </b:if>
+    <div class='date-posts'>
+      <div class='post-outer'>
+
+        <div class='post hentry uncustomized-post-template'>
+          <a expr:name='data:post.id'/>
+          <b:if cond='data:post.title'>
+            <h class='post-title entry-title'>
+              <b:if cond='data:post.link'>
+                <a expr:href='data:post.link'><data:post.title/></a>
+              <b:else/>
+                <b:if cond='data:post.url'>
+                  <b:if cond='data:blog.url != data:post.url'>
+                    <data:post.title/>
+                  <b:else/>
+                    <data:post.title/>
+                  </b:if>
+                <b:else/>
+                  <data:post.title/>
+                </b:if>
+              </b:if>
+            </h>
+          </b:if>
+<div class='post-header'>
+            <div class='post-header-line-1'/>
+          </div><div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id'><data:post.body/>
+            <div style='clear: both;'/> <!-- clear for photos floats -->
+          </div><div class='post-footer'>
+            <div class='post-footer-line post-footer-line-1'>
+              <span class='post-author vcard'>
+                <b:if cond='data:top.showAuthor'>
+                  <b:if cond='data:post.authorProfileUrl'>
+                    <span class='fn'>
+                      <a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
+                        <data:post.author/>
+                      </a>
+                    </span>
+                  <b:else/>
+                    <span class='fn'><data:post.author/></span>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-timestamp'>
+                <b:if cond='data:top.showTimestamp'>
+                  <data:top.timestampLabel/>
+                  <b:if cond='data:post.url'>
+                    <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601'><data:post.timestamp/></abbr></a>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-comment-link'>
+                <b:if cond='data:blog.pageType != &quot;item&quot;'>
+                  <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+                    <b:if cond='data:post.allowComments'>
+                      <!--<a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><b:if cond='data:post.numComments == 1'>1 <data:top.commentLabel/><b:else/><data:post.numComments/> <data:top.commentLabelPlural/></b:if></a>-->
+                    </b:if>
+                  </b:if>
+                </b:if>
+              </span>
+            </div>
+
+            <div class='post-footer-line post-footer-line-2'>
+              <b:if cond='data:top.showMobileShare'>
+                <div class='mobile-link-button goog-inline-block' id='mobile-share-button'>
+                  <a href='javascript:void(0);'><data:shareMsg/></a>
+                </div>
+              </b:if>
+              <b:if cond='data:top.showDummy'>
+                <div class='goog-inline-block dummy-container'><data:post.dummyTag/></div>
+              </b:if>
+            </div>
+
+          </div>
+        </div>
+
+        <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+          <b:include data='post' name='comments'/>
+        </b:if>
+        <b:if cond='data:blog.pageType == &quot;item&quot;'>
+          <b:include data='post' name='comments'/>
+        </b:if>
+      </div>
+    </div>
+  </div>
+</b:includable>
+                    <b:includable id='nextprev'>
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <span id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'>&#171; <data:newerPageTitle/></a>
+      </span>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <span id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'><data:olderPageTitle/> <i class='fa fa-caret-right fa-fw'/></a>
+      </span>
+    </b:if>
+
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+<b:if cond='data:mobileLinkUrl'>
+      <div class='blog-mobile-link'>
+        <a expr:href='data:mobileLinkUrl'><data:mobileLinkMsg/></a>
+      </div>
+    </b:if>
+
+  </div></b:if><b:if cond='data:blog.pageType == &quot;item&quot;'>
+<style>
+.blog-pager{text-align:center;font-size:12px;color:#01826e;float:right;margin:5px 0px 0px 0}
+.blog-pager a{padding:0px 1px;margin:0 4px;text-decoration:none;color:#01826e;}
+.blog-pager a:hover{color:#333;}
+</style>
+  <div class='blog-pager'>       
+<b:if cond='data:newerPageUrl'>  <a expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'>&#171; Trang trước</a>
+    </b:if>  <a class='home-link' expr:href='data:blog.homepageUrl'>Trang chủ</a> <b:if cond='data:olderPageUrl'>
+<a expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'> Trang sau <i class='fa fa-caret-right fa-fw'/></a></b:if>
+  </div></b:if>
+ <div class='clear'/></b:includable>
+                    <b:includable id='post' var='post'>
+
+  <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+
+    <a expr:name='data:post.id'/>
+    <b:if cond='data:post.title'>
+      <h3 class='post-title entry-title' itemprop='name'>
+      <b:if cond='data:post.link'>
+        <a expr:href='data:post.link'><data:post.title/></a>
+      <b:else/>
+        <b:if cond='data:post.url'>
+          <b:if cond='data:blog.url != data:post.url'>
+            <a expr:href='data:post.url'><data:post.title/></a>
+          <b:else/>
+           <a expr:href='data:post.url'><data:post.title/></a>
+          </b:if>
+        <b:else/>
+          <a expr:href='data:post.url'><data:post.title/></a>
+        </b:if>
+      </b:if>
+      </h3>
+    </b:if>
+</b:if>
+    <div class='post-header'>
+    <div class='post-header-line-1'/>
+</div>
+  <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='articleBody'>
+    
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+<data:post.body/>
+<b:else/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<div expr:id='&quot;summary&quot; + data:post.id'>
+<p><data:post.body/></p>
+</div>
+<script type='text/javascript'>
+chitietsp(&quot;summary<data:post.id/>&quot;,&quot;<data:post.title/>&quot;,&quot;<data:post.url/>&quot;);
+</script>
+<b:else/>
+<div expr:id='&quot;summary&quot; + data:post.id'>
+<p><data:post.body/></p>
+</div>
+<script type='text/javascript'>
+homepage(&quot;summary<data:post.id/>&quot;,&quot;<data:post.title/>&quot;,&quot;<data:post.url/>&quot;);
+</script>
+</b:if>
+</b:if>
+<div style='clear: both;'/> <!-- clear for photos floats -->
+</div>
+<b:if cond='data:blog.pageType == &quot;item&quot;'> 
+<script>
+//<![CDATA[
+var relatedTitles=new Array();var relatedTitlesNum=0;var relatedUrls=new Array();function related_results_labels(json){for(var i=0;i<json.feed.entry.length;i++){var entry=json.feed.entry[i];relatedTitles[relatedTitlesNum]=entry.title.$t;for(var k=0;k<entry.link.length;k++){if(entry.link[k].rel=='alternate'){relatedUrls[relatedTitlesNum]=entry.link[k].href;relatedTitlesNum++;break;}}}}
+function removeRelatedDuplicates(){var tmp=new Array(0);var tmp2=new Array(0);for(var i=0;i<relatedUrls.length;i++){if(!contains(tmp,relatedUrls[i])){tmp.length+=1;tmp[tmp.length-1]=relatedUrls[i];tmp2.length+=1;tmp2[tmp2.length-1]=relatedTitles[i];}}
+relatedTitles=tmp2;relatedUrls=tmp;} function contains(a,e){for(var j=0;j<a.length;j++)if(a[j]==e)return true;return false;}
+function printRelatedLabels(){var r=Math.floor((relatedTitles.length-1)*Math.random());var i=0;document.write('<ul>');while(i<relatedTitles.length&&i<5){document.write('<li><a href="'+relatedUrls[r]+'">'+relatedTitles[r]+'</a></li>');if(r<relatedTitles.length-1){r++;}else{r=0;}
+i++;}
+document.write('</ul>');document.write();}//]]>
+</script>
+<h3 class='related_title'>Bài học cùng chủ đề</h3>
+<b:loop values='data:post.labels' var='label'>
+<b:if cond='data:label.isLast == &quot;true&quot;'>
+<script expr:src='&quot;/feeds/posts/default/-/&quot; + data:label.name + &quot;?orderby=published&amp;alt=json-in-script&amp;callback=related_results_labels&quot;' type='text/javascript'/>
+</b:if>
+<script type='text/javascript'> var maxresults=5;removeRelatedDuplicates();printRelatedLabels(&quot;<data:post.url/>&quot;);</script>
+</b:loop>  
+</b:if>
+    <b:if cond='data:post.hasJumpLink'>
+     <!-- <div class='jump-link'>
+        <a expr:href='data:post.url + &quot;#more&quot;' expr:title='data:post.title'><data:post.jumpText/></a>
+      </div> -->
+    </b:if>
+
+    <div class='post-footer'>
+    <div class='post-footer-line post-footer-line-1'>
+         
+
+      </div>
+
+      <div class='post-footer-line post-footer-line-2'>
+      
+      </div>
+
+      <div class='post-footer-line post-footer-line-3'>
+      <span class='post-location'>
+        <b:if cond='data:top.showLocation'>
+          <b:if cond='data:post.location'>
+            <data:postLocationLabel/>
+            <a expr:href='data:post.location.mapsUrl' target='_blank'><data:post.location.name/></a>
+          </b:if>
+        </b:if>
+      </span>
+      </div>
+    </div>
+  </div>
+</b:includable>
+                    <b:includable id='postQuickEdit' var='post'>
+  <b:if cond='data:post.editUrl'>
+    <span expr:class='&quot;item-control &quot; + data:post.adminClass'>
+      <a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'>
+        <img alt='' class='icon-action' height='18' src='//img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+      </a>
+    </span>
+  </b:if>
+</b:includable>
+                    <b:includable id='shareButtons' var='post'/>
+                    <b:includable id='status-message'/>
+                    <b:includable id='threaded-comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+     <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+    <b:else/>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+    </b:if>
+    <data:post.friendConnectJs/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;, &#39;<data:post.communityId/>&#39;);
+    </script>
+  </div>
+</b:includable>
+                    <b:includable id='threaded_comment_css'>
+  <style>
+.comments {
+  clear: both;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  line-height: 1em;
+}
+.comments .comments-content {
+  font-size: 13px;
+  margin-bottom: 16px;
+}
+.comments .comment .comment-actions a {
+  padding-top: 5px;
+  padding-right: 5px;
+}
+.comments .comment .comment-actions a:hover {
+  text-decoration: underline;
+}
+.comments .comments-content .comment-thread ol {
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+}
+.comments .comments-content .inline-thread {
+  padding: 0.5em 1em;
+}
+.comments .comments-content .comment-thread {
+  margin: 8px 0px;
+}
+.comments .comments-content .comment-thread:empty {
+  display: none;
+}
+.comments .comments-content .comment-replies {
+  margin-top: 1em;
+  margin-left: 36px;
+}
+.comments .comments-content .comment {
+  margin-bottom:16px;
+  padding-bottom:8px;
+}
+.comments .comments-content .comment:first-child {
+  padding-top:16px;
+}
+.comments .comments-content .comment:last-child {
+  border-bottom:0;
+  padding-bottom:0;
+}
+.comments .comments-content .comment-body {
+  position:relative;
+}
+.comments .comments-content .user {
+  font-style:normal;
+  font-weight:bold;
+}
+.comments .comments-content .icon.blog-author {
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  margin: 0 0 -4px 6px;
+}
+.comments .comments-content .datetime {
+  margin-left:6px;
+}
+.comments .comments-content .comment-header,
+.comments .comments-content .comment-content {
+  margin:0 0 8px;
+}
+.comments .comments-content .comment-content {
+  text-align:justify;
+}
+.comments .comments-content .owner-actions {
+  position:absolute;
+  right:0;
+  top:0;
+}
+.comments .comments-replybox {
+  border: none;
+  height: 250px;
+  width: 100%;
+}
+.comments .comment-replybox-single {
+  margin-top: 5px;
+  margin-left: 48px;
+}
+.comments .comment-replybox-thread {
+  margin-top: 5px;
+}
+.comments .comments-content .loadmore a {
+  display: block;
+  padding: 10px 16px;
+  text-align: center;
+}
+.comments .thread-toggle {
+  cursor: pointer;
+  display: inline-block;
+}
+.comments .continue {
+  cursor: pointer;
+}
+.comments .continue a {
+  display: block;
+  padding: 0.5em;
+  font-weight: bold;
+}
+.comments .comments-content .loadmore {
+  cursor: pointer;
+  max-height: 3em;
+  margin-top: 3em;
+}
+.comments .comments-content .loadmore.loaded {
+  max-height: 0px;
+  opacity: 0;
+  overflow: hidden;
+}
+.comments .thread-chrome.thread-collapsed {
+  display: none;
+}
+.comments .thread-toggle {
+  display: inline-block;
+}
+.comments .thread-toggle .thread-arrow {
+  display: inline-block;
+  height: 6px;
+  width: 7px;
+  overflow: visible;
+  margin: 0.3em;
+  padding-right: 4px;
+}
+.comments .thread-expanded .thread-arrow {
+  background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAG0lEQVR42mNgwAfKy8v/48I4FeA0AacVDFQBAP9wJkE/KhUMAAAAAElFTkSuQmCC&quot;) no-repeat scroll 0 0 transparent;
+}
+.comments .thread-collapsed .thread-arrow {
+  background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAJUlEQVR42mNgAILy8vL/DLgASBKnApgkVgXIkhgKiNKJ005s4gDLbCZBiSxfygAAAABJRU5ErkJggg==&quot;) no-repeat scroll 0 0 transparent;
+}
+.comments .avatar-image-container {
+  float: left;
+  width: 36px;
+  max-height: 36px;
+  overflow: hidden;
+}
+.comments .avatar-image-container img {
+  width: 36px;
+}
+.comments .comment-block {
+  margin-left: 48px;
+  position: relative;
+}
+
+/* Responsive styles. */
+@media screen and (max-device-width: 480px) {
+  .comments .comments-content .comment-replies {
+    margin-left: 0;
+  }
+}
+  </style>
+</b:includable>
+                    <b:includable id='threaded_comment_js' var='post'>
+  <script defer='defer' expr:src='data:post.commentSrc' type='text/javascript'/>
+</b:includable>
+                    <b:includable id='threaded_comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <h4>
+      <b:if cond='data:post.numComments == 1'>
+        1 <data:commentLabel/>:
+      <b:else/>
+        <data:post.numComments/> <data:commentLabelPlural/>:
+      </b:if>
+    </h4>
+
+    <div class='comments-content'>
+      <b:if cond='data:post.embedCommentForm'>
+        <b:include data='post' name='threaded_comment_js'/>
+      </b:if>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+    <p class='comment-footer'>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threaded-comment-form'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+       <b:if cond='data:post.showBacklinks'>
+         <b:include data='post' name='backlinks'/>
+       </b:if>
+    </div>
+    </div>
+  </div>
+</b:includable>
+                  </b:widget>
+                </b:section>
+                </b:if>
+              </main>
+            </div>
+            
+      
+      
+      </b:with>
+    </div>
+   <!-- end trang bài viết -->
+</div>
+<!-- cột trái-->
+<div class='right'>
+    <div class='boxright'>
+        <div class='title'>BÀI ĐĂNG MỚI NHẤT</div>
+        <div class='content'>
+<script language='JavaScript'> //<![CDATA[
+document.write("<script src=\"/feeds/posts/default/-/BÀI ĐĂNG MỚI NHẤT?max-results="+6+"&orderby=published&alt=json-in-script&callback=showrecentposts2\"><\/script>");      //]]>
+</script>
+         
+
+        </div>
+    </div>
+    <div class='boxright'>
+        <div class='title'>CÁC KHÓA HỌC FREE NỔI BẬT</div>
+        <div class='content watermark'>
+
+            <div class='newhome2'>
+                <div class='image'>
+                    <a href='/2021/07/tu-hoc-word-2019.html' title='Học Word 2019 Free'><img alt='Học Word 2019' border='0' src='https://1.bp.blogspot.com/-_Ra7f74i1g0/YP_jYgKmW8I/AAAAAAAAABI/7tX81CONvEwDqmaRDRyzyAb4GUTk-wT1wCLcBGAsYHQ/s303/Khoa%2BHoc%2BFree%2BNoi%2BBat_Word.png' style='width:223px;height:125px' title='DẠY THÊM - HỌC THÊM'/>
+                    </a>
+                </div>
+           
+                <div style='clear: both'/>
+            </div>
+
+            <div class='newhome2'>
+                <div class='image'>
+                    <a href='/2021/07/tu-hoc-exel-2019.html' title='Học Word 2019 Free'><img alt='Học Exel 2019' border='0' src='https://1.bp.blogspot.com/-eGGdtH0SbL0/YP_jYijxTZI/AAAAAAAAABE/APeL26RmDJosCiByYOfm7r7Bl3eZX0OewCLcBGAsYHQ/s303/Khoa%2BHoc%2BFree%2BNoi%2BBat_exel.png' style='width:223px;height:125px' title='LẤY LẠI CĂN BẢN CHO HỌC SINH'/>
+                    </a>
+                </div>
+            
+                <div style='clear: both'/>
+            </div>
+        
+           
+        </div>
+    </div>
+<!--
+    <div class="boxright">
+        <div class="content">
+            <iframe src="https://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/Hotline.0336.300.388/&amp;width=320&amp;height= 550&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;show_border=true&amp;header=true" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 320px; height: 550px; margin-bottom: 8px;" allowtransparency="true"></iframe>
+        </div>
+    </div>-->
+</div>
+<!-- hết cột trái-->
+
+
+
+
+<div style='clear: both;'/>
+	</div>
+<div style='clear: both'/>
+	</div>
+
+
+
+</div>
+
+
+            
+
+<div class='cover iconn'>
+    <div class='ft'>
+        <div class='textwidget'>
+            <p>
+                <span class='name-icon pull-left fa fa-money'/>
+            </p>
+            <div class='description pull-left'>
+                <h4>CAM KẾT CHÍNH HÃNG</h4>
+                <p>Đảm bảo chất lượng 100%</p>
+            </div>
+        </div>
+    </div>
+    <div class='ft'>
+        <p>
+            <span class='name-icon pull-left fa fa-smile-o'/>
+        </p>
+        <div class='description pull-left'>
+            <h4>HỖ TRỢ TƯ VẤN</h4>
+            <p>Hỗ trợ trực tuyến 24/24</p>
+        </div>
+    </div>
+    <div class='ft'>
+        <p>
+            <span class='name-icon pull-left fa fa-phone-square'/>
+        </p>
+        <div class='description pull-left'>
+            <h4>HOTLINE:  Gọi:   0978782301</h4>
+            <p>Đặt hàng ngay</p>
+        </div>
+    </div>
+    <div class='ft'>
+        <p>
+            <span class='name-icon pull-left fa fa-envelope'/>
+        </p>
+        <div class='description pull-left'>
+            <h4>NHẬN BÁO GIÁ QUA MAIL</h4>
+            <p>tainangtrecenter@Gmail.Com</p>
+        </div>
+    </div>
+    <div style='clear: both'/>
+</div>
+<div id='footer'>
+    <div class='cover'>
+        <div class='boxfooter'>
+            <div class='title'>
+                <h4>Thông tin liên hệ</h4>
+            </div>
+            <div class='contentft'>
+                <div class='chantrang'>
+                  <p style='text-align: center;'><a href='/'>
+<img alt='Sửa chữa bảo hành điện máy' src='https://1.bp.blogspot.com/-Sry1jGCezA8/YP53P1gls2I/AAAAAAAAAAc/IQeTW4PPYGoDMgUhj_HZpgfKVnh-aFCawCLcBGAsYHQ/s1100/footerKenhHocThem.png' style='width: 1080px;'/></a></p>
+
+<p style='text-align: center;'>&amp;nbsp;</p>
+
+<p style='text-align: center;'>&amp;nbsp;</p>
+
+<p style='text-align: center;'>&amp;nbsp;</p>
+
+<p style='text-align: center;'>&amp;nbsp;</p>
+
+                </div>
+            </div>
+        </div>
+        <div class='boxfooter'>
+            <div class='title'>
+                <h4>Danh mục</h4>
+            </div>
+            <div class='contentft'>
+                <ul>
+                    
+
+                </ul>
+            </div>
+        </div>
+        <div class='boxfooter ftright'>
+            <div class='title'>
+                <h4>hoc them nha be</h4>
+            </div>
+            <div class='contentft'>
+                
+            </div>
+        </div>
+        <div style='clear: both'/>
+    </div>
+</div>
+
+
+
+            
+           <h1 style=' display:none'> KÊNH HỌC THÊM </h1>
+        </div>
+        <!-- Zoom Products -->
+<script src='https://web3giay.github.io/suadodien.github.io/js/smoothproducts.min.js' type='text/javascript'/>
+<script type='text/javascript'>
+    $(&#39;.sp-wrap&#39;).smoothproducts();
+</script>
+<!-- End Zoom Products -->
+    <script src='https://web3giay.github.io/suadodien.github.io/js/equalheight.js'/>
+    <script charset='utf-8' type='text/javascript'>
+        $(window).load(function () {
+            equalheight(&#39;.product&#39;);
+            equalheight(&#39;.item1&#39;);
+            equalheight(&#39;.ft&#39;);
+        });
+        $(window).resize(function () {
+            equalheight(&#39;.product&#39;);
+            equalheight(&#39;.item1&#39;);
+            equalheight(&#39;.ft&#39;);
+        });
+</script>
+  
+<div class='phone-dc'>
+<a class='suntory-alo-phone suntory-alo-green' href='tel:0978782301' id='suntory-alo-phoneIcon' style='left: 0px; bottom: 0px;'>
+    <div class='suntory-alo-ph-circle'/>
+    <div class='suntory-alo-ph-circle-fill'/>
+    <div class='suntory-alo-ph-img-circle'><i class='fp-ph-img-circle'/></div>
+    <span id='hotline'>BẤM GỌI NGAY</span>
+</a>
+</div>
+
+     <div class='scroll-top-inner' id='toTop'>
+     <img src='https://1.bp.blogspot.com/-bblQg08Z0WU/XVtnJ-VhN5I/AAAAAAAABFY/yl7k-iWcTf803OR8i_v3rTjH50BSAF2PQCLcBGAs/s1600/icon-top.png'/>
+      </div>
+
+<script type='text/javascript'>      
+$(window).scroll(function () {
+    if ($(this).scrollTop() != 0) {
+        $(&#39;#toTop&#39;).fadeIn();
+    } else {
+        $(&#39;#toTop&#39;).fadeOut();
+    }
+});
+$(&#39;#toTop&#39;).click(function () {
+    $(&#39;body,html&#39;).animate(
+        {
+        scrollTop: 0
+        }, 800
+    );
+});
+</script>  
+
+ <aside class='sidebar-container container sidebar-invisible' role='complementary'>
+     
+      <div class='sidebar_top_wrapper'>
+        <b:class cond='data:widgets none w =&gt; w.sectionId == &quot;sidebar_top&quot;' name='no-items'/>
+
+       
+      </div>
+      <b:section class='sidebar_bottom' id='sidebar_bottom' name='Sidebar (Bottom)' preferred='yes'>
+        <b:widget id='ReportAbuse1' locked='true' title='' type='ReportAbuse' visible='false'>
+          <b:includable id='main'>
+  <b:include name='reportAbuse'/>
+</b:includable>
+        </b:widget>
+      </b:section>
+    </aside>
+    <b:template-script async='true' name='indie' version='1.0.0'/>
+<script src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'/>
+ <script src='https://web3giay.github.io/dongdaubanquyen.github.io/jquery.watermark.min.js'/>
+<script type='text/javascript'>
+$(function(){
+
+ $(&#39;.watermark img&#39;).watermark({
+  path: &#39;,
+ opacity: 1
+ });
+})
+</script>
+  </body>
+</html>
